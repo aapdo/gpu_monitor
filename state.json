@@ -1,0 +1,141 @@
+{
+  "FARM": {
+    "farm1": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:40.964503+09:00"
+    },
+    "farm8": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:40.964503+09:00"
+    },
+    "farm9": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:40.964503+09:00"
+    },
+    "farm2": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:40.964503+09:00"
+    },
+    "farm7": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:40.964503+09:00"
+    },
+    "farm6": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:40.964503+09:00"
+    }
+  },
+  "LAB": {
+    "lab1": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:43.238680+09:00"
+    },
+    "lab5": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:43.238680+09:00"
+    },
+    "lab9": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:43.238680+09:00"
+    },
+    "lab3": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:43.238680+09:00"
+    },
+    "lab2": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:43.238680+09:00"
+    },
+    "lab6": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:43.238680+09:00"
+    },
+    "lab8": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:43.238680+09:00"
+    },
+    "lab4": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:43.238680+09:00"
+    },
+    "lab7": {
+      "last_gpu_ok": true,
+      "reboot_scheduled_at": null,
+      "reboot_done": false,
+      "reboot_fail_count": 0,
+      "reboot_failed_notified": false,
+      "persistent_failure_notified": false,
+      "last_checked": "2026-01-14T15:55:43.238680+09:00"
+    }
+  }
+}
